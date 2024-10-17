@@ -1,4 +1,2 @@
-- 👋 Hi, I’m @Whoopix
-- 👀 I’m interested in changing online shopping
-- 💞️ I’m looking to collaborate on improving and cleaning the system files.
-- 📫 How to reach me or@shvartz.com
+- 👋 Hi, We are @Whoopix
+- 📫 Reach us or@whoopix.ai
